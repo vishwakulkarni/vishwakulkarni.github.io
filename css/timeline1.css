@@ -35,7 +35,7 @@ body{
     font-weight: lighter;
     background: var(--blue);
 }
-.timeline p, .timeline time {
+.timeline time {
     color: var(--blue)
 }
 .timeline::before {
